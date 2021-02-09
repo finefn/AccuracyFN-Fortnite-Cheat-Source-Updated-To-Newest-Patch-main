@@ -1,0 +1,175 @@
+﻿D:\Program Files\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  hooks.cpp
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\hooks.cpp(440,44): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  dllmain.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  offsets.cpp
+  renderer.cpp
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(422,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(447,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(447,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(447,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(448,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(448,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(448,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(449,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(449,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(449,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(450,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(450,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(450,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(451,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(451,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(455,151): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(455,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(455,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(455,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(455,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(456,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(456,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(456,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(456,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(456,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(460,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(460,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(460,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(460,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(460,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(463,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(464,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(467,159): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(467,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(467,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(467,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(468,159): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(468,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(468,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(468,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(469,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(469,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(469,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(469,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(470,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(470,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(470,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(470,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(471,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(471,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(471,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(471,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(472,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(472,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(472,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(472,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(473,175): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(473,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(473,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(473,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(474,175): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(474,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(474,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(474,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(477,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(477,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(477,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(477,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(478,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(478,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(478,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(478,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(479,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(479,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(479,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(479,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(480,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(480,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(480,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(480,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(481,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(481,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(481,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(481,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(482,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(482,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(482,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(482,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(483,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(483,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(483,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(483,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(484,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(484,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(484,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(484,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(556,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(556,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(556,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(556,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(557,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(557,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(557,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(557,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(561,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(561,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(561,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(561,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(562,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(562,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(562,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(562,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(566,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(566,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(566,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(566,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(567,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(567,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(567,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(567,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(571,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(571,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(571,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(571,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(572,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(572,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(572,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(572,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(578,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(578,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1882,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1888,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1898,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1898,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1898,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1898,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1898,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1903,118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1903,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1903,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1903,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1903,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1908,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1908,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1908,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1908,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1908,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1913,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1913,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1913,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1913,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1913,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  settings.cpp
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\settings.cpp(41,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\settings.cpp(42,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\settings.cpp(47,30): warning C4305: '=': truncation from 'float' to 'bool'
+  util.cpp
+     Creating library .\x64\release\AccuracyFNSRCLEAK.lib and object .\x64\release\AccuracyFNSRCLEAK.exp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\renderer.cpp(1892): warning C4700: uninitialized local variable 'X' used
+  All 2415 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Fortnite.vcxproj -> C:\Users\Rhett\OneDrive\Desktop\AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch-main\AccuracyFN\x64\release\AccuracyFNSRCLEAK.dll
